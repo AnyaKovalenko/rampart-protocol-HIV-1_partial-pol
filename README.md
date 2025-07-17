@@ -1,4 +1,4 @@
-# Custom RAMPART protocol for real-time HIV-1 partial-pol gene sequencing. 
+# Custom RAMPART protocol for real-time HIV-1 partial-pol gene sequencing
 This configuration is designed to run [RAMPART](https://github.com/artic-network/rampart?tab=readme-ov-file) concurrently with ONT MinKNOW sequencing, providing real-time visualization of read mapping, coverage, and reference matching to the HXB2 genome (~1.3 kb PR/RT region) for each barcode. Developed by the ARTIC network, RAMPART allows users to monitor sequencing progress live and assess read accumulation, helping to determine when sufficient coverage has been reached and the run can be stopped.
 
 ## Available RAMPART Protocols
