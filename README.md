@@ -15,7 +15,7 @@ These two options provide flexibility depending on whether you prefer full-genom
 ## Associated Wet Lab Protocol
 These RAMPART configurations are intended for use with the companion `HIV-1 partial-pol gene nanopore sequencing protocol` (published on protocols.io), which describes the upstream wet-lab workflow including RT-PCR, amplicon generation, and library prep.
 
-## Running RAMPART with This Protocol
+## Running RAMPART 
 
 To run RAMPART with this protocol, use the following example commands:
 
