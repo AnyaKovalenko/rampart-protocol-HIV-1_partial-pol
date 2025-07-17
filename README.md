@@ -19,7 +19,7 @@ These RAMPART configurations are intended for use with the companion `HIV-1 part
 This is an example of the real-time view generated using the `rampart-HIV-1_partial-pol_2030-3400` protocol.  
 It shows barcode-specific read depth, mapping to the pol region (HXB2: 2030–3400), and reference match performance.
 
-RAMPART Output
+![RAMPART Output](rampart_overview.png)
 
 ## Related Publication
 This protocol was used in:
