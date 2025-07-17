@@ -22,6 +22,8 @@ It shows barcode-specific read depth, mapping to the pol region (HXB2: 2030–34
 ![RAMPART Output](rampart_overview.png)
 
 ## Related Publication
+Please cite the associated publications when using or adapting this workflow.
+
 This protocol was used in:
 
 **Kovalenko et al., 2023**. *Phylodynamics and migration data help describe HIV transmission dynamics in internally displaced people who inject drugs in Ukraine.*  
