@@ -13,7 +13,7 @@ Uses a truncated version of the HXB2 reference (coordinates 2030–3400) corresp
 These two options provide flexibility depending on whether you prefer full-genome or amplicon-focused visualization during sequencing.
 
 ## Associated Wet Lab Protocol
-These RAMPART configurations are intended for use with the companion `HIV-1 partial-pol nanopore sequencing protocol` (published on protocols.io), which describes the upstream wet-lab workflow including RT-PCR, amplicon generation, and library prep.
+These RAMPART configurations are intended for use with the companion `HIV-1 partial-pol nanopore sequencing protocol` (published on protocols.io, DOI: dx.doi.org/10.17504/protocols.io.261gekojdg47/v1), which describes the upstream wet-lab workflow including RT-PCR, amplicon generation, and library prep.
 
 ## Running RAMPART 
 
