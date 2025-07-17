@@ -1,0 +1,10 @@
+{
+  "name": "HIV-1kb",
+  "description": "Amplicon based sequencing of HIV with one targets: pol gene 1.3kb",
+  "url": "http://artic.network/",
+  "displayOptions": {
+    "coverageThresholds": {
+      ">200x": 200, ">100x": 100, ">20x": 20, "0x": 0
+    }
+  }
+}
