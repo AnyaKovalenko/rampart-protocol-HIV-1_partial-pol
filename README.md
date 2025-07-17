@@ -20,15 +20,15 @@ These RAMPART configurations are intended for use with the companion `HIV-1 part
 To run RAMPART with this protocol, use the following example commands:
 
 ```bash
-rampart --protocol ~/rampart/rampart-HIV-1_partial-pol --basecalledPath /path/to/fastq_pass/folder/
+rampart --protocol ~/rampart-HIV-1_partial-pol --basecalledPath /path/to/fastq_pass/folder/
 ```
 or
 ```bash
-rampart --protocol ~/rampart/rampart-HIV-1_partial-pol_2030-3400 --basecalledPath /path/to/fastq_pass/folder/
+rampart --protocol ~/rampart-HIV-1_partial-pol_2030-3400 --basecalledPath /path/to/fastq_pass/folder/
 ```
 Please ensure you follow the official [RAMPART](https://github.com/artic-network/rampart?tab=readme-ov-file) installation and usage guidelines! 
 
-### Example RAMPART Output
+## Example RAMPART Output
 This is an example of the real-time view generated using the `rampart-HIV-1_partial-pol_2030-3400` protocol.  
 It shows barcode-specific read depth, mapping to the pol region (HXB2: 2030–3400), and reference match performance.
 
