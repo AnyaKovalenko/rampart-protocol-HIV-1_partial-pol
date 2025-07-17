@@ -43,3 +43,19 @@ This protocol was used in:
 [PNAS Nexus, pgad008](https://doi.org/10.1093/pnasnexus/pgad008)
 
 📌 An additional publication describing the mobile HIV-1 sequencing application is forthcoming. The citation and link will be added here once available.
+
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+© 2025 Anna Kovalenko
+
+---
+
+## Contact
+
+[anna31kovalenko@gmail.com](mailto:anna31kovalenko@gmail.com)
+
