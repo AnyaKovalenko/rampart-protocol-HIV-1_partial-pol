@@ -43,7 +43,6 @@ This protocol was used in:
 [PNAS Nexus, pgad008](https://doi.org/10.1093/pnasnexus/pgad008)
 
 **Kovalenko et al., 2026**. *VANTAGE: van-based real-time HIV sequencing for transmission mapping and drug resistance profiling in war-affected Ukraine.* 
-
 [AIDS. 2026;40(1):123-126](https://doi.org/10.1097/QAD.0000000000004360)
 
 
