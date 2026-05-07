@@ -42,7 +42,9 @@ This protocol was used in:
 **Kovalenko et al., 2023**. *Phylodynamics and migration data help describe HIV transmission dynamics in internally displaced people who inject drugs in Ukraine.*  
 [PNAS Nexus, pgad008](https://doi.org/10.1093/pnasnexus/pgad008)
 
-📌 An additional publication describing the mobile HIV-1 sequencing application is forthcoming. The citation and link will be added here once available.
+**Kovalenko G, Liulchuk MG, Filippovych M, Smyrnov P, Strathdee SA, Vasylyeva TI. (2026)**. *VANTAGE: van-based real-time HIV sequencing for transmission mapping and drug resistance profiling in war-affected Ukraine.* 
+
+[AIDS. 2026;40(1):123-126] (https://doi.org/10.1097/QAD.0000000000004360)
 
 
 ## License
