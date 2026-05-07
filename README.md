@@ -35,9 +35,7 @@ It shows barcode-specific read depth, mapping to the pol region (HXB2: 2030–34
 ![RAMPART Output](rampart_overview.png)
 
 ## Related Publication
-Please cite the associated publications when using or adapting this workflow.
-
-This protocol was used in:
+Please cite the associated publications when using or adapting this workflow. This protocol was used in:
 
 **Kovalenko et al., 2026**. *VANTAGE: van-based real-time HIV sequencing for transmission mapping and drug resistance profiling in war-affected Ukraine.* 
 [AIDS. 2026;40(1):123-126](https://doi.org/10.1097/QAD.0000000000004360)
